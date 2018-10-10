@@ -1,0 +1,12 @@
+.OriginalAlert{
+    color: blue;
+    text-decoration: underline;
+}
+.LoadAlert{
+    color: Red;    
+}
+
+.ResultAlert{
+    color: green;
+    text-decoration: underline;
+}
